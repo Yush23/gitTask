@@ -1,1 +1,2 @@
-console.log("Git is Awesome!");
+const input = prompt("Type whatever is on your mind");
+alert(input);
